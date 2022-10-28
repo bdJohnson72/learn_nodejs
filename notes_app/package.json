@@ -1,0 +1,22 @@
+{
+  "name": "notes_app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bdJohnson72/learn_nodejs.git"
+  },
+  "keywords": [
+    "nodejs"
+  ],
+  "author": "Brooks Johnson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bdJohnson72/learn_nodejs/issues"
+  },
+  "homepage": "https://github.com/bdJohnson72/learn_nodejs#readme"
+}
